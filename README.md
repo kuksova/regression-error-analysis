@@ -1,5 +1,7 @@
-# regression-error-analysis
 
+<img width="420" height="235" alt="Screenshot 2025-09-19 at 1 55 46 PM" src="https://github.com/user-attachments/assets/1ba276da-0cf1-49f7-9c79-48262ba6573e" />
+
+# regression-error-analysis
 
 Project Name:  Linear Regression Error Analysis  
 Brief objective: "Analyzed the errors of the regression model, tested several improvement approaches (1,3 features, polynomial and tree-based models)".  
